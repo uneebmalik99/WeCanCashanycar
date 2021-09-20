@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "520592574748",
+    "project_id": "car-auction-bf6f0",
+    "storage_bucket": "car-auction-bf6f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520592574748:android:be77b78c892487ebc052d9",
+        "android_client_info": {
+          "package_name": "com.carauctionuae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520592574748-sgeacj28lab1drmmb4lo157khq2668f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carauctionuae",
+            "certificate_hash": "b1446eb68cb03a23dddea9b443670e4ce53ed241"
+          }
+        },
+        {
+          "client_id": "520592574748-08gtq7so1ccq136ne5hdgkai302e1mtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYCGSIcHMBYgjJS540r6V6RAK3J_wYKx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520592574748-08gtq7so1ccq136ne5hdgkai302e1mtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
