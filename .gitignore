@@ -1,0 +1,23 @@
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+*.iml
+
+
+# Watchman
+.watchmanconfig
+
+
+# Node
+node_modules
+*.log
+.nvm
+/bots/node_modules/
+package-lock.json
+
+
+# CocoaPods
+
+ios/Pods
